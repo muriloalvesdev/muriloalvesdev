@@ -16,6 +16,8 @@ Ah e como sou novo no mundo da programação.. também tenho meu [CRUD](https://
 
 Enfim, gosto do que faço e gosto de compartilhar conhecimento. Quando aprendo algo novo corro logo pra mostrar para os meus amigos programadores e isto com certeza me motiva cada dia mais. 
 
+Ah e também estou começando a escrever alguns artigos no [Medium](https://medium.com/@muriloalvesdev). 🤓
+
 ## Você também pode me encontrar aqui:
 [LinkedIn](https://www.linkedin.com/in/murilo-alves-66039a150/)
 
