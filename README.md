@@ -1,7 +1,5 @@
 ## Olá, meu nome é Murilo Alves 👋
 
-Sou um Desenvolvedor Júnior. 🤓
-
 Atualmente moro no Brasil. 🇧🇷 
 
 Trabalho na [iDtrust](http://www.idtrust.com.br/) 😄 
