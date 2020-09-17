@@ -17,5 +17,7 @@ Enfim, gosto do que faço e gosto de compartilhar conhecimento. Quando aprendo a
 Ah e também estou começando a escrever alguns artigos no [Medium](https://medium.com/@muriloalvesdev). 🤓
 
 ## Você também pode me encontrar aqui:
-[LinkedIn](https://www.linkedin.com/in/murilo-alves-66039a150/)
+- [LinkedIn](https://www.linkedin.com/in/murilo-alves-66039a150/)
+
+- [Email](murilohenrique.ti@outlook.com.br)
 
