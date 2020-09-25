@@ -2,9 +2,11 @@
 
 Atualmente moro no Brasil. 🇧🇷 
 
-Trabalho na [iDtrust](http://www.idtrust.com.br/) 😄 
+Trabalho na [iDtrust](http://www.idtrust.com.br/)
 
 Escrevo alguns tópicos no [Medium](https://medium.com/@muriloalvesdev), trabalho com Java e gosto de estudar sobre outras tecnologias também.
+
+Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 
 
 ## Você pode me encontrar aqui:
 - [LinkedIn](https://www.linkedin.com/in/murilo-alves-66039a150/)
