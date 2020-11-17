@@ -2,7 +2,7 @@
 
 Atualmente moro no Brasil. 🇧🇷 
 
-Escrevo alguns tópicos no [Medium](https://medium.com/@muriloalvesdev), trabalho com Java e gosto de estudar sobre outras tecnologias também.
+Escrevo alguns tópicos no [Medium](https://medium.com/@muriloalvesdev), sou Desenvolvedor Java Back-End e gosto de estudar sobre outras tecnologias também.
 
 Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 
 
