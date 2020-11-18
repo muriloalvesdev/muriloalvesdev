@@ -8,6 +8,3 @@ Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Chal
 
 ## Você pode me encontrar aqui:
 - [LinkedIn](https://www.linkedin.com/in/murilo-alves-batista-66039a150/)
-
-- [Email](murilohenrique.ti@outlook.com.br)
-
