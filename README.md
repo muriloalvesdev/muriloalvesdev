@@ -7,7 +7,7 @@ Escrevo alguns tópicos no [Medium](https://medium.com/@muriloalvesdev), sou Des
 Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 
 
 ## Você pode me encontrar aqui:
-- [LinkedIn](https://www.linkedin.com/in/murilo-alves-66039a150/)
+- [LinkedIn](https://www.linkedin.com/in/murilo-alves-batista-66039a150/)
 
 - [Email](murilohenrique.ti@outlook.com.br)
 
