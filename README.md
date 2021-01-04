@@ -2,7 +2,7 @@
 
 Atualmente moro no Brasil. 🇧🇷 
 
-Desenvolvedor Java Back-End desde 2018.
+Desenvolvedor Java Back-End desde 2019/01.
 
 Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 
 
