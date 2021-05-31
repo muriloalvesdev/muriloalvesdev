@@ -19,6 +19,6 @@ Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Chal
 
 ## Você pode me encontrar aqui:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-alves-batista-66039a150/)](https://www.linkedin.com/in/murilo-alves-batista-66039a150/) 
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-alves-batista-66039a150/)](https://www.linkedin.com/in/murilo-alves-dev/) 
 
 - [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@muriloalvesdev)](https://medium.com/@muriloalvesdev)
