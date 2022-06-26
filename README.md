@@ -13,7 +13,7 @@
 
 Atualmente moro no Brasil. 🇧🇷 
 
-Software Developer Java desde 2019/01.
+Software Developer desde 2019/01.
 
 Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 
 
