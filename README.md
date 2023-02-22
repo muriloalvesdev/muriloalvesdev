@@ -1,16 +1,5 @@
 ## Olá, meu nome é Murilo Alves. Tudo bem? 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muriloalvesdev" alt="Murilo Alves" /> </p>
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloalvesdev&layout=compact&show_icons=true&hide_border=true"
-    />
-  </a>
-</p>
-
 Atualmente moro no Brasil. 🇧🇷 
 
 Software Developer desde 2019/01.
