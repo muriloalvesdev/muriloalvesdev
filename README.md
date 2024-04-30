@@ -4,7 +4,7 @@ Atualmente moro no Brasil. 🇧🇷
 
 Software Developer desde 2019/01.
 
-Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 
+Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 (Mas você pode olhar os fixados também, rs) 
 
 ## Você pode me encontrar aqui:
 
