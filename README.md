@@ -1,13 +1,13 @@
-## Olá, meu nome é Murilo Alves. Tudo bem? 👋
+## Olá, meu nome é Murilo Alves! 👋
 
-Atualmente moro no Brasil. 🇧🇷 
+Sou um **Software Developer** com experiência desde janeiro de 2019, atualmente baseado no Brasil 🇧🇷.
 
-Software Developer desde 2019/01.
 
-Gosto bastante de fazer desafios, e agrupei todos eles neste repositório: [Challenges](https://github.com/muriloalvesdev/challenges) 😄 (Mas você pode olhar os fixados também, rs) 
+Tenho uma paixão por desafios de programação e, para compartilhar meu aprendizado, reuni todos eles em um repositório dedicado:  [Challenges](https://github.com/muriloalvesdev/challenges) 😄. Além disso, você pode conferir os projetos fixados para mais detalhes sobre o que estou trabalhando atualmente.
+
+## Meu portfólio
+Dê uma olhada no meu portfólio para ver uma seleção dos meus projetos e mais sobre meu trabalho: [Murilo Alves - Portfólio](https://murilo-alves-portfolio.netlify.app/) 🌟
 
 ## Você pode me encontrar aqui:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-alves-batista-66039a150/)](https://www.linkedin.com/in/muriloalvesdev/) 
-
-- [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@muriloalvesdev)](https://medium.com/@muriloalvesdev)
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-alves-batista-66039a150/)](https://www.linkedin.com/in/muriloalvesdev/)
