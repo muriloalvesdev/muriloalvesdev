@@ -6,7 +6,7 @@ Sou um **Software Developer** com experiência desde janeiro de 2019, atualmente
 Tenho uma paixão por desafios de programação e, para compartilhar meu aprendizado, reuni todos eles em um repositório dedicado:  [Challenges](https://github.com/muriloalvesdev/challenges) 😄. Além disso, você pode conferir os projetos fixados para mais detalhes sobre o que estou trabalhando atualmente.
 
 ## Meu portfólio
-Dê uma olhada no meu portfólio para ver uma seleção dos meus projetos e mais sobre meu trabalho: [Murilo Alves - Portfólio](https://murilo-alves-portfolio.netlify.app/) 🌟
+Dê uma olhada no meu portfólio para ver uma seleção dos meus projetos e mais sobre meu trabalho: [Murilo Alves - Portfólio](https://portfolio.muriloalvesdev.com.br/) 🌟
 
 ## Você pode me encontrar aqui:
 
